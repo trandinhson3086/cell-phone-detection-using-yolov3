@@ -1,3 +1,6 @@
+<p align="center"> 
+    <img width="700" src="./cell_phone_detection2.gif" alt="Convolution">
+</p>
 
 # Cell Phone Detection using your own custom dataset Step-by-Step (Windows/linux) 
 ## Requirements
