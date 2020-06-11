@@ -19,8 +19,9 @@
 
 
 ## Dataset
+First, download 'anotations' from http://cocodataset.org/#download
 
-Download only image data of a cell-phone class from COCO Dataset, using `phone_download.py`
+Nex, using `phone_download.py` to download only image data of a cell-phone class from COCO Dataset. 
 Then, read images and save as data file `data/data.txt`, using `savetxt.py`
 
 
